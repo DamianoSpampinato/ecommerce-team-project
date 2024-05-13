@@ -5,16 +5,16 @@
     <header>
         <div class="ms-header-container">
             <div class="ms-row d-flex align-items-center py-2">
-                <div class="ms-logo-container">
+                <div class="ms-logo-container mx-2">
                     <img class="img-fluid"
                         src="https://cdn.vectorstock.com/i/500p/74/63/amazon-logo-background-icon-vector-50147463.jpg"
                         alt="">
                 </div>
-                <div class="ms-send-to">
+                <div class="ms-send-to mx-2">
                     <div>Invia a</div>
                     <div class="text-white"><i class="fa-solid fa-location-dot"></i></div>
                 </div>
-                <div class="ms-input-container">
+                <div class="ms-input-container mx-2">
                     <div class="input-group mb-3">
                         <button class="btn btn-outline-secondary dropdown-toggle" type="button"
                             data-bs-toggle="dropdown" aria-expanded="false">Dropdown</button>
@@ -30,8 +30,8 @@
                         <input type="text" class="form-control" aria-label="Text input with dropdown button">
                     </div>
                 </div>
-                <div>Account e liste</div>
-                <div>Resi e ordini</div>
+                <div class="">Account e liste</div>
+                <div class="">Resi e ordini</div>
                 <div>Carrello</div>
             </div>
         </div>
