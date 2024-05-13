@@ -50,9 +50,11 @@
 .ms-container{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     .card{
         border-radius: 0;
         h5{
+            padding-left: 5px;
             font-weight: bold;
         }
         width: calc((100% / 4) - 15px);
