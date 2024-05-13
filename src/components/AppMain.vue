@@ -1,10 +1,12 @@
 <script>
     import ChosenForYou from './ChosenForYou.vue';
-    import AppSpecialOffers from './AppSpecialOffers.vue'
+    import AppSpecialOffers from './AppSpecialOffers.vue';
+    import ProductsCarousel from './ProductsCarousel.vue';
     export default{
         components:{
             ChosenForYou,
-            AppSpecialOffers
+            AppSpecialOffers,
+            ProductsCarousel
         },
         data(){
             return{
@@ -13,9 +15,9 @@
         },
     }
 </script>
-
 <template>
     <main>
+        <ProductsCarousel></ProductsCarousel>
         <AppSpecialOffers></AppSpecialOffers>
         <ChosenForYou></ChosenForYou>
         
