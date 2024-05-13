@@ -17,28 +17,28 @@ export default{
 </script>
 
 <template>
-<div class="ms-container bg-secondary">
-    <div class="d-flex align-items-end gap-1">
-        <h5 class="m-0">Offerte lampo</h5>
+<div class="ms-container bg-white">
+    <div class="d-flex align-items-end gap-3 mb-2">
+        <h5 class="m-0 fw-bold">Offerte lampo</h5>
         <small><a href="#">scopri di più</a></small>
     </div>
     <div 
     v-for="item in itemsArray"
-    class="card" style="width: 18rem;">
+    class="card ms-card-width  border-0">
         <img :src="`${item.img}`" class="card-img-top" alt="...">
         <div class="card-body">
             <div class="item-name">
                 {{ item.name }}
             </div>
             <div class="discount">
-                <span class="banner-discount text-white">{{ item.discount }} di sconto</span>
-                <span class="color-red">Offerta lampo</span>
+                <span class="banner-discount text-white p-1">{{ item.discount }} di sconto</span>
+                <span class="color-red">Offerta a tempo</span>
             </div>
             <div class="price">
                 <span>
                     {{ item.price - ( item.price * item.discount / 100)  }}
                 </span>
-                <small>€ Più basso:</small>
+                <small>€ Più basso: </small>
                 <small class="line-through">{{ item.price }}€</small>
             </div>
         </div>
@@ -50,11 +50,26 @@ export default{
 @use '../style/partials/variables' as *;
 .color-red{
     color: $red-bg;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 3px;
 }
 .banner-discount{
     background-color: $red-bg;
+    font-size: 12px;
 }
 .line-through{
     text-decoration:line-through;
+}
+.ms-card-width{
+    width: calc(100% / 6);
+}
+.bg-white{
+    background-color: white;
+}
+a{
+    text-decoration: none;
+    color: $green-azure-bg;
+    font-weight: 500;
 }
 </style>
