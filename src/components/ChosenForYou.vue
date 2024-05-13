@@ -6,23 +6,23 @@
                 chosenCard: [
                     {
                         heading: 'Articoli moda consigliati per te',
-                        firstImg: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zalando.it%2Fnike-performance-free-rn-50-2021-scarpe-running-neutre-blackwhitedark-smoke-grey-n1242a27o-q12.html&psig=AOvVaw14lEFWm3M-NOVNhEcSFYUk&ust=1715699319679000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj865n0ioYDFQAAAAAdAAAAABAJ',
-                        secondImg: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zalando.it%2Fnike-performance-free-rn-50-2021-scarpe-running-neutre-blackwhitedark-smoke-grey-n1242a27o-q12.html&psig=AOvVaw14lEFWm3M-NOVNhEcSFYUk&ust=1715699319679000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj865n0ioYDFQAAAAAdAAAAABAJ',
+                        firstImg: 'https://img01.ztat.net/article/spp-media-p1/ce04c37cdd77453188f507568b09edde/925de377f0f34cffb533586d0855ea4c.jpg?imwidth=762',
+                        secondImg: 'https://img01.ztat.net/article/spp-media-p1/ce04c37cdd77453188f507568b09edde/925de377f0f34cffb533586d0855ea4c.jpg?imwidth=762',
                     },
                     {
                         heading: 'Ottimi prezzi sulla moda donna',
-                        firstImg: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zalando.it%2Fnike-performance-free-rn-50-2021-scarpe-running-neutre-blackwhitedark-smoke-grey-n1242a27o-q12.html&psig=AOvVaw14lEFWm3M-NOVNhEcSFYUk&ust=1715699319679000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj865n0ioYDFQAAAAAdAAAAABAJ',
-                        secondImg: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zalando.it%2Fnike-performance-free-rn-50-2021-scarpe-running-neutre-blackwhitedark-smoke-grey-n1242a27o-q12.html&psig=AOvVaw14lEFWm3M-NOVNhEcSFYUk&ust=1715699319679000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj865n0ioYDFQAAAAAdAAAAABAJ',
+                        firstImg: 'https://img01.ztat.net/article/spp-media-p1/ce04c37cdd77453188f507568b09edde/925de377f0f34cffb533586d0855ea4c.jpg?imwidth=762',
+                        secondImg: 'https://img01.ztat.net/article/spp-media-p1/ce04c37cdd77453188f507568b09edde/925de377f0f34cffb533586d0855ea4c.jpg?imwidth=762',
                     },
                     {
                         heading: 'Made in italy',
-                        firstImg: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zalando.it%2Fnike-performance-free-rn-50-2021-scarpe-running-neutre-blackwhitedark-smoke-grey-n1242a27o-q12.html&psig=AOvVaw14lEFWm3M-NOVNhEcSFYUk&ust=1715699319679000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj865n0ioYDFQAAAAAdAAAAABAJ',
-                        secondImg: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zalando.it%2Fnike-performance-free-rn-50-2021-scarpe-running-neutre-blackwhitedark-smoke-grey-n1242a27o-q12.html&psig=AOvVaw14lEFWm3M-NOVNhEcSFYUk&ust=1715699319679000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj865n0ioYDFQAAAAAdAAAAABAJ',
+                        firstImg: 'https://img01.ztat.net/article/spp-media-p1/ce04c37cdd77453188f507568b09edde/925de377f0f34cffb533586d0855ea4c.jpg?imwidth=762',
+                        secondImg: 'https://img01.ztat.net/article/spp-media-p1/ce04c37cdd77453188f507568b09edde/925de377f0f34cffb533586d0855ea4c.jpg?imwidth=762',
                     },
                     {
                         heading: 'Riprendi da dove hai lasciato',
-                        firstImg: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zalando.it%2Fnike-performance-free-rn-50-2021-scarpe-running-neutre-blackwhitedark-smoke-grey-n1242a27o-q12.html&psig=AOvVaw14lEFWm3M-NOVNhEcSFYUk&ust=1715699319679000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj865n0ioYDFQAAAAAdAAAAABAJ',
-                        secondImg: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zalando.it%2Fnike-performance-free-rn-50-2021-scarpe-running-neutre-blackwhitedark-smoke-grey-n1242a27o-q12.html&psig=AOvVaw14lEFWm3M-NOVNhEcSFYUk&ust=1715699319679000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj865n0ioYDFQAAAAAdAAAAABAJ',
+                        firstImg: 'https://img01.ztat.net/article/spp-media-p1/ce04c37cdd77453188f507568b09edde/925de377f0f34cffb533586d0855ea4c.jpg?imwidth=762',
+                        secondImg: 'https://img01.ztat.net/article/spp-media-p1/ce04c37cdd77453188f507568b09edde/925de377f0f34cffb533586d0855ea4c.jpg?imwidth=762',
                     },
                 ]
             }
@@ -34,11 +34,13 @@
 <template>
     <section>
         <!-- Single card template -->
-        <div class="ms-container">
+        <div class="ms-container my-3">
             <div v-for="card in chosenCard" class="card">
-                <h5>{{ chosenCard.heading }}</h5>
-                <img :src="{{ chosenCard.firstImg }}" alt="product image">
-                <img :src="{{ chosenCard.secondImg }}" alt="product image">
+                <h5>{{ card.heading }}</h5>
+                <div class="img-wrapper">
+                    <img :src="card.firstImg" alt="product image">
+                    <img :src="card.secondImg" alt="product image">
+                </div>
             </div>
         </div>
     </section>
@@ -49,7 +51,19 @@
     display: flex;
     justify-content: space-between;
     .card{
-        width: calc((100 / 4) -15px);
+        border-radius: 0;
+        h5{
+            font-weight: bold;
+        }
+        width: calc((100% / 4) - 15px);
+        padding: 10px;
+        .img-wrapper{
+            display: flex;
+            img{
+            width: 50%;
+            padding: 5px;
+            }
+        }
     }
 }
 </style>
