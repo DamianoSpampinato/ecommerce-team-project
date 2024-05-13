@@ -1,8 +1,12 @@
 <script>
-import ProductsCarousel from './ProductsCarousel.vue';
+    import ChosenForYou from './ChosenForYou.vue';
+    import AppSpecialOffers from './AppSpecialOffers.vue';
+    import ProductsCarousel from './ProductsCarousel.vue';
     export default{
         components:{
-            name: 'AppMain'
+            ChosenForYou,
+            AppSpecialOffers,
+            ProductsCarousel
         },
         data(){
             return{
@@ -14,9 +18,15 @@ import ProductsCarousel from './ProductsCarousel.vue';
 <template>
     <main>
         <ProductsCarousel></ProductsCarousel>
+        <AppSpecialOffers></AppSpecialOffers>
+        <ChosenForYou></ChosenForYou>
+        
     </main>
 </template>
 
 <style lang="scss" scoped>
     @use '../style/partials/variables' as *;
+main{
+    background-color: #e4e5e7;
+}
 </style>

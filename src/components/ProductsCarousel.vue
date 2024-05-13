@@ -32,7 +32,4 @@ export default {
 </template>
 
 <style scoped lang="scss">
-.ciao{
-    color: black;
-}
 </style>
