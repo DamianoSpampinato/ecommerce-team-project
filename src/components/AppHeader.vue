@@ -30,9 +30,11 @@
                         <input type="text" class="form-control" aria-label="Text input with dropdown button">
                     </div>
                 </div>
-                <div class="">Account e liste</div>
-                <div class="">Resi e ordini</div>
-                <div>Carrello</div>
+                <div class="ms-header-top-right d-flex ms-auto justify-content-end gap-3">
+                    <div class="">Account e liste</div>
+                    <div class="">Resi e ordini</div>
+                    <div>Carrello</div>
+                </div>
             </div>
         </div>
     </header>
