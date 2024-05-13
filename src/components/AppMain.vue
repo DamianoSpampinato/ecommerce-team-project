@@ -1,7 +1,8 @@
 <script>
+    import ChosenForYou from './ChosenForYou.vue';
     export default{
         components:{
-            
+            ChosenForYou,
         },
         data(){
             return{
@@ -13,7 +14,7 @@
 
 <template>
     <main>
-
+        <ChosenForYou></ChosenForYou>
     </main>
 </template>
 
