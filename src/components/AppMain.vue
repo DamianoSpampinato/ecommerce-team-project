@@ -1,8 +1,10 @@
 <script>
     import ChosenForYou from './ChosenForYou.vue';
+    import AppSpecialOffers from './AppSpecialOffers.vue'
     export default{
         components:{
             ChosenForYou,
+            AppSpecialOffers
         },
         data(){
             return{
@@ -14,7 +16,9 @@
 
 <template>
     <main>
+        <AppSpecialOffers></AppSpecialOffers>
         <ChosenForYou></ChosenForYou>
+        
     </main>
 </template>
 
